@@ -132,6 +132,7 @@
     }
     .section-1-right{
         position: absolute;
+        z-index: -10;
        left: 772px;
        right: 138px;
        bottom: 4621px;
